@@ -1,5 +1,7 @@
 # mongoose-base-user-plugin
 
+[![Join the chat at https://gitter.im/i5ting/mongoose-base-user-plugin](https://badges.gitter.im/i5ting/mongoose-base-user-plugin.svg)](https://gitter.im/i5ting/mongoose-base-user-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 a base user plugin for mongoose
 
 
